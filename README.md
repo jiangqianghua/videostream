@@ -1,3 +1,8 @@
+how run
+goto current dir
+>>npm install
+>>npm build build-example
+
 # Videostream
 
 Streams data from a file-like seekable object into a &lt;video&gt; or &lt;audio&gt; node (a `HTMLMediaElement`).
